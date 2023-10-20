@@ -31,4 +31,4 @@ Ich hätte mich heute besser konzentrieren können und ich will das auch nächst
 In dem Projekt will ich lernen, mit Dateien auf meinem PC/Notebook zu programmieren, Dateien (z.B. txt) ändern und zu verschieben, ähnlich wie im Linux Terminal mit "cd, move, ...". (136 Wörter)
 ### Arbeitspaket für 27.10.2023
 
--[] An meinem Programmierprojekt arbeiten.
+-[ ] An meinem Programmierprojekt arbeiten.
