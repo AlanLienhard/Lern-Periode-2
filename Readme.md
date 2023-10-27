@@ -32,3 +32,9 @@ In dem Projekt will ich lernen, mit Dateien auf meinem PC/Notebook zu programmie
 ### Arbeitspaket für 27.10.2023
 
 -[ ] An meinem Programmierprojekt arbeiten.
+
+Ich konnte heute nicht an meinem Programmierprojekt nicht arbeiten, weil ich doch noch Einiges für mein ePortfolio M319 machen musste. Nächste Woche sollte ich dann nächste Woche endlich an meinem Programmierprojekt arbeiten können. Die M319 Abgabe ist diesen Sonntag 23:59 Uhr, und ich habe sonst noch keine grossen Schulprojekte, die die zusätzliche Zeit im Lernatelier benötigen, also sollte ich die restliche Lernperiode (hoffentlich) Zeit haben, an meinem Programmierprojekt zu arbeiten.
+
+### Arbeitspaket für 3.11.2023
+
+-[ ] An meinem Programmierprojekt arbeiten
