@@ -38,3 +38,12 @@ Ich konnte heute nicht an meinem Programmierprojekt nicht arbeiten, weil ich doc
 ### Arbeitspaket für 3.11.2023
 
 -[ ] An meinem Programmierprojekt arbeiten
+
+Ich habe heute am Programmierprojekt mit Amar und Ylli gearbeitet (ist ein Gruppenprojekt, das Projekt bei Herrn Fähndrich). Bei unserem Projekt erstellen wir einen Hypothekenrechner. Zuerst wollen wir es in der Konsole machen, und wenn die Zeit übrig bleibt, fügen wir ein GUI (Graphical User Interface zu). Das Programm kann bisher die Hypotheken berechnen, berechnen ob eine Hypothek überhaupt nötig ist und ob man die Hypothek tragen kann (genug Geld und Einkommen hat). Das Programm kann noch keine Exceptions behandeln (z.B. wenn jemand bei der User-prompt "Kaufpreis der Immobilie:" Buchstaben oder Sonderzeichen eingibt, stürzt das Programm zurzeit ab, aber es sollte mit dieser Ausnahme umgehen können. (106 Wörter) ![image](https://github.com/AlanLienhard/Lern-Periode-2/assets/142605666/600c4147-f9c4-4eae-8241-1812ddbf2034)
+
+
+### Arbeitspaket für 10.11.2023
+
+- [ ] Projekt Exception-Verarbeitung hinzugüfen
+- [ ] Wenn nichts mehr zu erledigen ist, an eigenem Projekt (Files verschieben und ändern) arbeiten
+
