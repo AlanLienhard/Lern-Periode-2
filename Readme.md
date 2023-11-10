@@ -44,6 +44,13 @@ Ich habe heute am Programmierprojekt mit Amar und Ylli gearbeitet (ist ein Grupp
 
 ### Arbeitspaket für 10.11.2023
 
-- [ ] Projekt Exception-Verarbeitung hinzugüfen
+- [x] Projekt Exception-Verarbeitung hinzugüfen
 - [ ] Wenn nichts mehr zu erledigen ist, an eigenem Projekt (Files verschieben und ändern) arbeiten
+
+     Heute habe ich am Gruppenprojekt bzw. dem Hypothekenrechner gearbeitet. Ich habe Exception-Behandlungen hinzugefügt, damit, wenn der User Buchstaben oder andere Zeichen eingibt, die nicht Zahlen sind, das Programm nicht "unkommentiert" abstürzt. Nämlich kommt da dann eine Fehlermeldung. Ich möchte noch für nächstes Mal probieren, dass anstatt, dass nur eine Fehlermeldung kommt und dann das Programm fertig ist, dass man dann eine Möglichkeit hat, zurück Zum Anfang des Programmes zu gehen. Wenn ich dann noch Zeit habe, möchte ich mit meiner Gruppe anfangen, an einer GUI Version  mit WindowsForms (oder ähnliches, weil Ylli's Macbook OSx hat) zu arbeiten. Ich stelle mir vor, dass das mit Exceptions (try + catch) und mit "go to" funktionieren würde. (114 Wörter)
+
+### Arbeitspaket für 17.11.2023
+
+- [ ] go to Funktion einfügen
+- [ ] Anfangen, ein GUI zu machen
 
