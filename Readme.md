@@ -52,5 +52,12 @@ Ich habe heute am Programmierprojekt mit Amar und Ylli gearbeitet (ist ein Grupp
 ### Arbeitspaket für 17.11.2023
 
 - [ ] go to Funktion einfügen
-- [ ] Anfangen, ein GUI zu machen
+- [x] Anfangen, ein GUI zu machen
+
+Wir haben in dieser Session anstatt die go to Funktion die "out" Funktion benutzt. Unser Code für unser Command Line Interface ist so ziemlich "vollendet" bzw. fertig. Was wir jetzt noch tun müssen, ist das "importieren" unseres Codes in unser GUI WindowsForms Projekt (das wird nicht mit Copy & Paste funktionieren). Unser Programm kann auch damit umgehen, wenn eines der gespeicherten Werte "0" beträgt, ein Buchstaben oder Sonderzeichen hat, das Programm weist auch den Benutzer auf dieses Problem hin und verlangt wieder eine Prompt bzw. Eingabe vom Benutzer. Also fängt das Programm wieder "von vorne" an.  (96 Wörter)
+
+### Arbeitspaket für 24.11.2023
+
+- [ ] Code in GUI übertragen
+- [ ] Falls Zeit übrig bleibt, GUI verschönern
 
