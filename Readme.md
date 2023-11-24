@@ -62,6 +62,16 @@ Wir haben in dieser Session anstatt die go to Funktion die "out" Funktion benutz
 
 ### Arbeitspaket für 24.11.2023
 
-- [ ] Code in GUI übertragen
+- [x] Code in GUI übertragen
 - [ ] Falls Zeit übrig bleibt, GUI verschönern
 
+Heute haben wir den Code (noch nicht vollständig) von unserem CLI-Prototyp in unseren GUI-Prototyp "portiert". Wir wollen damit am Montag, oder spätestens im nächsten Lern-Atelier damit abschliessen.
+Wir haben bei uns noch einen logischen Fehler in unserer Berechnung der Amortisationskosten (obligatorische Rückzahlung der zweiten Hypothek). Es war leider problematisch, bei WinForms zu livesharen, da man nur den Code sharen konnte, aber nicht das Forms-Design. Dadurch konnten wir nicht sehr effizient zusammenarbeiten. 
+Wir wollen nächstes mal fertig werden mit dem Portieren vom Code, den Fehler in unserer Amortisationsrechnung beheben und das Forms-Design übersichtlicher (mit z.B. Buttons und symetrischem Design) übersichtlicher machen. (100 Wörter)
+
+
+### Arbeitspaket für 01.12.2023
+
+- [ ] Code fertig in GUI-Application portieren
+- [ ] Fehler in den Amortisationsberechnung beheben
+- [ ] GUI übersichtlicher machen
