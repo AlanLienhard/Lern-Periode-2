@@ -75,3 +75,14 @@ Wir wollen nächstes mal fertig werden mit dem Portieren vom Code, den Fehler in
 - [ ] Code fertig in GUI-Application portieren
 - [ ] Fehler in den Amortisationsberechnung beheben
 - [ ] GUI übersichtlicher machen
+
+
+In der Gruppe haben wir heute uns vor allem darauf konzentriert, den Fehler in den Amortisationsformel zu beheben. Die zwei GUI Arbeitspakete hatten unterste Priorität, denn es war für uns wichtig, dass unser Programm Berechnungen richtig durchführt. Wir haben es leider nicht geschafft, obwohl wir auch im Internet eine Formel gefunden haben, diese funktioniert auch eigentlich. Jedoch hat sie bei unserer Zahlen, die wir als "Standart zum Testen probieren", nicht funktioniert. ![image](https://github.com/AlanLienhard/Lern-Periode-2/assets/142605666/6c067296-0769-41e1-beda-c6aa1ff3187d) (Ein Bild der Formel vom Youtube-Video https://youtu.be/lkNJvsy0qU8?si=DeG1Wz05AjcE6OZF )
+
+Nächstes mal möchte ich AdventOfCode machen, um meine Programmierfähigkeiten zu verbessern und für abwechlungsreiche Projekte. Wenn ich das doch nicht interessant finde (was ich bezweifle) möchte ich noch ein neues Projekt, alleine machen, aber ich muss mir dann auch noch Zeit nehmen, ein Thema auszuwählen. (125 Wörter)
+
+### Arbeitspaket für 08.12.2023
+
+- [ ] AdventOfCode Rätsel/Aufgaben lösen (auch von vorherigen Tagen nachholen und nicht nur vom 08.12. machen)
+- [ ] Neues Projekt starten und Thema auswählen (falls mir AoC nicht reicht
+
