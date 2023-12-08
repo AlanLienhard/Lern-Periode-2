@@ -84,5 +84,13 @@ Nächstes mal möchte ich AdventOfCode machen, um meine Programmierfähigkeiten 
 ### Arbeitspaket für 08.12.2023
 
 - [ ] AdventOfCode Rätsel/Aufgaben lösen (auch von vorherigen Tagen nachholen und nicht nur vom 08.12. machen)
-- [ ] Neues Projekt starten und Thema auswählen (falls mir AoC nicht reicht
+- [x] Neues Projekt starten und Thema auswählen (falls mir AoC nicht reicht)
 
+Ich habe zuerst heute mit AoC begonnen, aber ich schlug da fehl, weil, ich es so dachte, dass mir das nötige Programmierwissen und die Progerammiererfahrung fehlt. Daher habe ich mich entschieden, ein neues Projekt anzufangen. Es ist kein richtiges eigenständiges Projekt, sondern ein Kurs. Der Kurs, für den ich mich entschied heisst "TheOdinProject". Da lernt man hauptsächlich, mit Linux zu arbeiten (falls man sich für Linux entscheidet) und FullStack Development. Ich dachte, das sei eine gute Entscheidung, weil ich viel Gutes darüber gehört habe und dachte, das sei ein guter Weg um auch alleine (ausserhalb der Schule) Coden zu lernen. Ich denke (und hoffe auch), dass es nicht zu schwierig sein soll, mein (dort erlangtes) Wissen von CSS, HTML und Javascript in C# umzuändern. Man lernt dort auch, Git zu benutzen.
+Heute habe ich erst angefangen und also noch nicht gecodet. Ich habe auf meinem Laptop eine DualBoot Version von Linux Ubuntu installiert und zum Laufen gebracht.
+![image](https://github.com/AlanLienhard/Lern-Periode-2/assets/142605666/b638a19c-b8c0-4c82-b506-db6c04bc5693)
+
+
+### Arbeitspaket für 15.12.2023
+
+- [ ] weiter an TheOdinProject arbeiten (Kurs befolgen)
