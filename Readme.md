@@ -93,4 +93,13 @@ Heute habe ich erst angefangen und also noch nicht gecodet. Ich habe auf meinem 
 
 ### Arbeitspaket für 15.12.2023
 
-- [ ] weiter an TheOdinProject arbeiten (Kurs befolgen)
+- [x] weiter an TheOdinProject (ToP) arbeiten (Kurs befolgen)
+
+Ich habe heute wie geplant den Kurs befolgt. Im Kurs waren Basics über HTML und es wurde erklärt, wieso und wozu man HTML, CSS und JavaScript für Websiten verwendet.
+Es wurde auch erklärt was HTML-tags und Elemente sind. In dem Kurs ist nicht nur Theorie, sondern er fordert auch Einen auf, Fragen zu beantworten oder auch Probleme bzw. Aufgaben zu lösen.
+Ich möchte nächstes Mal daran weiter arbeiten. Es gibt da auch eine "lesson" (wie Unterkapitel) namens "Git basics". Ich habe diese heute übersprungen, weil ich heute mit HTML beginnen wollte, aber ich möchte die Git basics nächstes Mal nachholen. Vielleicht lerne ich etwas über Git (vorallem Github), was ich noch nicht wusste (113 Wörter).
+
+### Arbeitspaket für 22.12.2023
+
+- [ ] In ToP "GitBasics" nachholen und durcharbeiten
+- [ ] In ToP an den HTML Basics weiterarbeiten
