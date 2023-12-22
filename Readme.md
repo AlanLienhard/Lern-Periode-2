@@ -110,3 +110,95 @@ Daten miteinander auszutauschen ist auch viel einfacher und schneller als bei vi
 
 ## Reflexion
 
+In dieser Lernperiode habe ich probiert, möglichst zu coden. Das ist mir nicht immer gelungen, da Aufträge dazwischen kamen, die ich als wichtiger und dringender empfand (z.B. die OBA vom Modul M431 bei Frau Rieder und das Programmierprojekt  bei Herr Fähndrich). Nach der Gruppenarbeit haben Sie uns Advent of Code vorgestellt und ich habe mich daran versucht, was mir aber schwer fiel und ich dachte mir, ich würde nochmals die Programmier-Basics auffrischen (und auch hoffentlich mehr lernen). Dann stiess ich auf das Odin Project (The Odin Project), das online sehr beliebt ist. Jedoch ist es nicht in C#, aber ich hoffe, dass ich trotzdem die Prinzipien/die Logik besser verstehen kann.
+
+Bei dem Gruppenprojekt ist mir aufgefallen, dass unsere Gruppendynamik nicht optimal war bzw. besser sein könnte. Ich denke, dass hat unser Endergebnis auch beeinlflusst.
+Wenn ich alleine arbeite, merke ich, dass ich relativ leicht abgelenkt werden kann, obwohl ich ANC-Kopfhörer habe, zumindest in BBB. Ich denke, ein Grund könnte auch sein, weil ich oft Leute in meinem Augenwinkel sehe, und die "Fensterfront" hilft nicht gross. Um das Problem zu beheben, könnte ich einfach probieren, weniger auf mein Umfeld aufzupassen.
+
+Muster, die ich in der LP gefunden habe: Gruppenarbeiten können oft ablenken, ich mache im LA oft Aufträge, die für mich wichtiger und dringender als Coden ist (z.B. OBA schreiben/verbessern). 219 Wörter
+
+```csharp
+using System;
+namespace Hypothekenrechner2._0
+{
+
+    internal class Program
+    {
+
+        private static double x;
+        static void Main(string[] args)
+        {
+            Console.WriteLine("UBS Hypothekenrechner");
+            Console.WriteLine("Erstellt von Amar Nuhija, Alan Lienhard und Ylli Cockgeci");
+            Console.WriteLine();
+
+            var x3 = Math.Pow(x, 3);
+            var y3 = Math.Pow(x, 3);
+            double Kaufpreis, Jahreseinkommen, Eigenmittel;
+
+            Console.Write("Kaufpreis der Immobilie: ");
+            while (!double.TryParse(Console.ReadLine(), out Kaufpreis))
+            {
+                Console.WriteLine("Ungültige Eingabe. Bitte geben Sie eine gültige Zahl ein.");
+                Console.Write("Kaufpreis der Immobilie: ");
+            }
+
+            Console.Write("Jährliches Einkommen: ");
+            while (!double.TryParse(Console.ReadLine(), out Jahreseinkommen))
+            {
+                Console.WriteLine("Ungültige Eingabe. Bitte geben Sie eine gültige Zahl ein.");
+                Console.Write("Jährliches Einkommen: ");
+            }
+                                                                                                                                
+            Console.Write("Eigenmittel: ");
+            while (!double.TryParse(Console.ReadLine(), out Eigenmittel))
+            { 
+                Console.WriteLine("Ungültige Eingabe. Bitte geben Sie eine gültige Zahl ein.");
+                Console.Write("Eigenmittel: ");
+            }
+
+            double Jahreszinsen = 0.024;
+            int Vertragdauer = 15;
+
+            double Monatlzinssatz = Jahreszinsen / 12;
+
+            double Darlehensbetrag = Kaufpreis - Eigenmittel;
+
+            int Anzahlzahlung = Vertragdauer * 12;
+            double Amortisation = Darlehensbetrag / Anzahlzahlung;
+            
+            double Sonstigerprozentsatz = 0.01;
+            double Monatlprozentsatz = Kaufpreis * Sonstigerprozentsatz / 12;
+
+            double Monatlzahlung = (Darlehensbetrag * Monatlzinssatz) + Amortisation + Monatlprozentsatz;
+
+            if (Eigenmittel >= Kaufpreis)
+            {
+                Console.WriteLine("Sie haben genügend eigene Mittel und benötigen keine Hypothek.");
+            }
+            else
+            {
+                Console.WriteLine("Ihre Monatlichen Kosten der Hypothek:");
+                Console.WriteLine($"Amortisation: {Amortisation:C2}");
+                Console.WriteLine($"Zinsen: {(Darlehensbetrag * Monatlzinssatz):C2}");
+                Console.WriteLine($"Nebenkosten: {Monatlprozentsatz:C2}");
+                Console.WriteLine($"Gesamt: {Monatlzahlung:C2}");
+
+                {
+                    if (Jahreseinkommen / 12 > Monatlzahlung)
+                    {
+                        Console.WriteLine("Ihr Monatliches Einkommen ist ausreichend, um die Immobilie zu kaufen.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Ihr Monatliches Einkommen ist nicht ausreichend, um die Immobilie zu kaufen.");
+
+                    }
+                }
+            }
+        }
+    }
+}
+```
+Das ist noch der Code aus dem Programmierprojekt mit Amar Nuhija und Ylli Kolgeci. Das war mein grösstes Projekt dieser Lernperiode, das am meisten Zeit in Anspruch genommen hat.
+Wir blieben bei der CLI, weil uns WinForms Schwierigkeiten bereitet hat (zum Einen wegen der Inkompabilität mit macOS, zum Anderen auch hatte ich mich nicht sehr gut mit WinForms "angefreundet"). 59 Wörter
