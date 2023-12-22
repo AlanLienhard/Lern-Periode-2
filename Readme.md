@@ -101,5 +101,12 @@ Ich möchte nächstes Mal daran weiter arbeiten. Es gibt da auch eine "lesson" (
 
 ### Arbeitspaket für 22.12.2023
 
-- [ ] In ToP "GitBasics" nachholen und durcharbeiten
+- [x] In ToP "GitBasics" nachholen und durcharbeiten
 - [ ] In ToP an den HTML Basics weiterarbeiten
+
+Ich habe heute vieles über Git gelernt. Zum Beispiel, dass Git ein sogenanntes Version Control System ist. Es ist auch ähnlich wie eine Cloud (OneDrive, GoogleDrive), aber es hat einige Vorteile. Wenn man eine Datei aktualisiert/ändert, kann man auch, wenn man will, zu einer vergangenen Version wechseln. Das heisst, man "verliert" eine Version der Datei nicht und kann bei fehlerhaften Dateien auf die alte, noch funktionierende Version zurückgreifen.
+Daten miteinander auszutauschen ist auch viel einfacher und schneller als bei vielen anderen Dienste. Normale CLouds sind abhängig von Servern, wenn diese ausfallen, kann man den Dienst nicht mehr benutzen (temporär). Git ist zentralisiert, d.h. es tauscht die Daten unter den Benutzern aus (so wie ich es verstanden habe, ist es ähnlich wie Peer-to-Peer hosting) (123 Wörter).
+
+
+## Reflexion
+
